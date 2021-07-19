@@ -22,9 +22,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-
+#### More about me
 - 🔭 I’m currently working on a few projects(learning)
 - 🌱 I’m currently learning some more advanced stuff
 - 👯 I’m looking to collaborate on anything that i can do(stated above)
 - ⚡ Fun fact: I love photos
+
+You want to reach me?
+
+![Twitter Follow](https://img.shields.io/twitter/follow/thedevtherapy?style=for-the-badge)
 
